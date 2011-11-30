@@ -1,2 +1,29 @@
 Kindly add project description in README
 
+PROBLEM:
+
+  IIUI canteen needs an automated inventory system to keep record of sales, items inventory and employees.
+ Currently they are maintaining records on ledgers, but as their business is expanding day by day they need to
+ automate their system for easy management and sales record. 
+
+TABLES TO BE CREATED:
+1)Item
+2)Customer
+3)Owner
+4)Supervisor
+5)Sales person
+6)Sales order
+7)Supplier
+8)Supply
+
+
+GOAL OF THE PROJECT:
+
+	Our purpose is to form an automated system for the inventory of the canteen. This system will consist of a 
+database system. The proposed system will try to minimize manual work involved. The main problem in the current 
+system is to keep record of accounts and manual calculations of all the sales and then comparing cost prices for 
+the calculation of profit. The proposed system will minimize these manual calculations and reports of profits will 
+be generated automatically. In the end of month, owner is interested for the monthly profit. The proposed system 
+will generate monthly report for the profit.
+
+
